@@ -13,6 +13,9 @@ Includes various shapes like squares, circles, triangles, etc.
 Usage
 Hover over any shape to see its color change.
 Experiment with different shapes to explore the interactive effects.
+
 Technologies Used
+
 HTML
+
 CSS
